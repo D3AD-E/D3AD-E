@@ -1,6 +1,5 @@
 # Full Stack Senior Developer | Web3 Builder | .NET & JavaScript | Solana Enthusiast
 
----
 
 ### 🧠 About Me
 
@@ -9,13 +8,10 @@
 - ☁️ Skilled in AWS, Azure, Docker, Terraform
 - 🔁 Passionate about performance, clean architecture & CI/CD
 
----
 
 ### 🛠️ Tech Stack
 
 `C#` `JavaScript` `TypeScript` `React` `Next.js`  `.NET` `Node.js` `Blazor` `Docker` `Terraform`  `Solana` `Pump.fun SDK` `Jito` `Azure` `AWS`
-
----
 
 ### 🚀 Web3 Projects
 
