@@ -30,16 +30,3 @@ Full Stack Senior Developer | Web3 Builder | .NET & JavaScript | Solana Enthusia
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=D3AD-E&show_icons=true&theme=radical)
-
----
-
-### 🌐 Connect
-
-[LinkedIn](https://www.linkedin.com/in/yevhenii-hordiienko-898375210/)  
-[Portfolio](https://d3ad-e.github.io/d3ad/)  
-📧 evg.gordi@gmail.com
-
----
-
-_"Build smart. Ship fast. Stay decentralized."_
