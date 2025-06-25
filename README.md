@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Yevhenii Hordiienko (aka D3AD)
-
-Full Stack Senior Developer | Web3 Builder | .NET & JavaScript | Solana Enthusiast
+# Full Stack Senior Developer | Web3 Builder | .NET & JavaScript | Solana Enthusiast
 
 ---
 
@@ -27,6 +25,4 @@ Full Stack Senior Developer | Web3 Builder | .NET & JavaScript | Solana Enthusia
 - [♻️ SolanaCleaner](https://github.com/D3AD-E/SolanaCleaner) – Closes unused accounts, recovers rent
 - [📦 Pump.fun SDK](https://github.com/D3AD-E/pumpdotfun-repumped-sdk) – Dev-friendly Solana SDK
 - [🧠 Jito Deshredder](https://github.com/D3AD-E/jito-shred-mod) – Shred mod for Solana blocks
-
----
 
