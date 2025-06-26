@@ -18,5 +18,5 @@
 - [🔫 Sniper Bot](https://github.com/D3AD-E/Solana-sniper-bot) – Pump.fun sniper (0-slot execution)
 - [♻️ SolanaCleaner](https://github.com/D3AD-E/SolanaCleaner) – Closes unused accounts, recovers rent
 - [📦 Pump.fun SDK](https://github.com/D3AD-E/pumpdotfun-repumped-sdk) – Dev-friendly Solana SDK
-- [🧠 Jito Deshredder](https://github.com/D3AD-E/jito-shred-mod) – Shred mod for Solana blocks
+- [🧠 Jito Deshredder](https://github.com/D3AD-E/jito-shred-mod) – Deshredder for solana, easily integratable with node
 
