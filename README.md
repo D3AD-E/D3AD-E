@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack
 
-`C#` `JavaScript` `TypeScript` `React` `Next.js`  `.NET` `Node.js` `Blazor` `Docker` `Terraform`  `Solana` `Pump.fun SDK` `Jito` `Azure` `AWS`
+`C#` `JavaScript` `TypeScript` `React` `Next.js`  `.NET` `Node.js` `Blazor` `Docker` `Terraform` `Web3` `Azure` `AWS`
 
 ### 🚀 Web3 Projects
 
