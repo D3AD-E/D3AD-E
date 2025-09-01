@@ -3,7 +3,7 @@
 
 ### 🧠 About Me
 
-- 🧰 3+ years in full stack development (C#, JS, TS, React, .NET)
+- 🧰 3+ years in full stack development (C#, JS, TS, React, .NET, Node)
 - 🧱 Building Web3 tools for Solana (bots, SDKs, integrations)
 - ☁️ Skilled in AWS, Azure, Docker, Terraform
 - 🔁 Passionate about performance, clean architecture & CI/CD
@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack
 
-`C#` `JavaScript` `TypeScript` `React` `Next.js`  `.NET` `Node.js` `Blazor` `Docker` `Terraform` `Web3` `Azure` `AWS`
+`JavaScript` `TypeScript` `React` `Next.js` `.NET` `Node.js` `Docker` `Terraform` `Web3` `Azure` `AWS`
 
 ### 🚀 Web3 Projects
 
